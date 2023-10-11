@@ -1,0 +1,15 @@
+{
+    "NAME" : "Prashant Kumar Singh",
+    "ABOUT_ME" : "Lorem ipsum dolor sit amet consectetur , adipisicing elit. Libero, exercitationem?",
+    "LANGUAGES": [
+        "Python",
+        "C++",
+        "JavaScript"
+    ],
+    "PROJECTS": [
+                
+            ["filter_drama", "Google", "Lorem ipsum dolor sit amet."],
+            ["place", "Youtube", "Lorem ipsum dolor sit amet."],
+            ["whatshot", "Facebook", "Lorem ipsum dolor sit amet."]
+    ]
+}
